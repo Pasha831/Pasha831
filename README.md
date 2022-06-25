@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋, I'm Pasha!
 
-<!--
-**Pasha831/Pasha831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 HSE student, future software engineer
+- ❤️ Love C++, Kotlin and machine learning
+- 🌱 I’m currently learning some Kotlin and features of mobile development
+- 🏋🏼 I'm not afraid of something new and always discover opportunities
+- ⚡ Fun fact: Australia is wider than the moon
 
-Here are some ideas to get you started:
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pasha831) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pasha831&theme=white&hide_border=true)](https://github.com/Pasha831) |
+| ------------------------------- | ------------------------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasha831&layout=compact)](https://github.com/Pasha831/github-readme-stats) | <a href="https://github.com/Pasha831/sfml-pong"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasha831&repo=sfml-pong&theme=buefy" /> </a> |
+| ------------------------------- | ------------------------------- |
+
+[![](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black)](https://t.me/nightshift48)
+[![](https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&color=black)](https://vk.com/notuselessman)
+[![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&color=black)](mailto:pashamedvedev03@gmail.com)
