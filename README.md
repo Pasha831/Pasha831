@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Pasha!
 
 - 💼 HSE student, future software engineer
-- ❤️ Love C++, Kotlin and machine learning
+- ❤️ Love Kotlin, C++ and machine learning
 - 🌱 I’m currently learning some Kotlin and features of mobile development
 - 🏋🏼 I'm not afraid of something new and always discover opportunities
 - ⚡ Fun fact: Australia is wider than the moon
