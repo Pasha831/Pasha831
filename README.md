@@ -12,6 +12,10 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasha831&layout=compact)](https://github.com/Pasha831/github-readme-stats) | <a href="https://github.com/Pasha831/sfml-pong"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasha831&repo=sfml-pong&theme=buefy" /> </a> |
 | ------------------------------- | ------------------------------- |
 
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Pasha831/Pasha831/output/github-contribution-grid-snake.svg)
+
 [![](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black)](https://t.me/nightshift48)
 [![](https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&color=black)](https://vk.com/notuselessman)
 [![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&color=black)](mailto:pashamedvedev03@gmail.com)
