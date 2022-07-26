@@ -2,7 +2,7 @@
 
 - 💼 HSE student, future software engineer
 - ❤️ Love Kotlin, Android development and C++
-- 🌱 I’m currently learning some Kotlin and features of mobile development
+- 🌱 I’m currently learning Kotlin and features of mobile development
 - 🏋🏼 I'm not afraid of something new and always discover opportunities
 - ⚡ Fun fact: Australia is wider than the moon
 
